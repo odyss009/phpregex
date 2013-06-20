@@ -1,0 +1,47 @@
+[
+    {
+        "name": "phppeg/phppeg",
+        "version": "v1.0.1",
+        "version_normalized": "1.0.1.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/anatoo/PHPPEG",
+            "reference": "v1.0.1"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://github.com/anatoo/PHPPEG/archive/v1.0.1.zip",
+            "reference": "v1.0.1",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.2.0"
+        },
+        "time": "2012-11-23 13:33:24",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-0": {
+                "PEG": "code/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Mitsunori Kubota",
+                "email": "anatoo.jp@gmail.com",
+                "homepage": "http://anatoo.jp",
+                "role": "Developer"
+            }
+        ],
+        "description": "PEG Parser Combinator for PHP5",
+        "homepage": "http://github.com/anatoo/PHPPEG",
+        "keywords": [
+            "parser",
+            "peg"
+        ]
+    }
+]

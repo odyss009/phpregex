@@ -1,0 +1,68 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file"
+    ],
+    "hash": "f85a35bdae86c5f191fa4894bf58e859",
+    "packages": [
+        {
+            "name": "phppeg/phppeg",
+            "version": "v1.0.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/anatoo/PHPPEG",
+                "reference": "v1.0.1"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://github.com/anatoo/PHPPEG/archive/v1.0.1.zip",
+                "reference": "v1.0.1",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.2.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-0": {
+                    "PEG": "code/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Mitsunori Kubota",
+                    "email": "anatoo.jp@gmail.com",
+                    "homepage": "http://anatoo.jp",
+                    "role": "Developer"
+                }
+            ],
+            "description": "PEG Parser Combinator for PHP5",
+            "homepage": "http://github.com/anatoo/PHPPEG",
+            "keywords": [
+                "parser",
+                "peg"
+            ],
+            "time": "2012-11-23 13:33:24"
+        }
+    ],
+    "packages-dev": [
+
+    ],
+    "aliases": [
+
+    ],
+    "minimum-stability": "stable",
+    "stability-flags": [
+
+    ],
+    "platform": [
+
+    ],
+    "platform-dev": [
+
+    ]
+}
